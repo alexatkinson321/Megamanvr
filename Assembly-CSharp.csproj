@@ -53,6 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AiMovement.cs" />
+     <Compile Include="Assets\Scripts\MegaBuster.cs" />
+     <Compile Include="Assets\Scripts\Respawn.cs" />
      <Compile Include="Assets\Scripts\StickManipulation.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
